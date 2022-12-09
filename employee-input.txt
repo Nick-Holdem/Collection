@@ -1,0 +1,6 @@
+1|Suc
+2|Lapte
+3|Ouă
+4|Ceriale
+5|Înghețată
+

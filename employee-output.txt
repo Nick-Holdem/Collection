@@ -1,0 +1,9 @@
+1 | Suc
+2 | Lapte
+3 | Ouă
+4 | Ceriale
+5 | Înghețată
+6 | Fructe
+7 | Zahăr
+8 | Biscuiți
+9 | Ceai
