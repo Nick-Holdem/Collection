@@ -1,4 +1,4 @@
-package Colection;
+package Collection;
 
 import java.io.*;
 import java.nio.file.Paths;
